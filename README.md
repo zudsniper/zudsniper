@@ -10,7 +10,7 @@ Hi! I'm jason. I make code and music, and I like tf2.
 here's my [Steam profile](https://contenthell.earth/).  
 
 ### 🎶 **currently listening to this!** 🎶  
-[![Spotify](https://zudsniper.vercel.app/api/spotify)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
+[![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
 
 <!--
 **zudsniper/zudsniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
