@@ -1,17 +1,24 @@
 ![me](https://cdn.discordapp.com/avatars/260934923261706260/c721c26b38eec134ab639cc2ce16d92c.png?size=512)  
-## ✳️ `zod` *-* jason ✳️
+# `zod` *-* jason 
 Hi! I'm jason. I make code and music, and I like tf2.
 
 ### 🎶 **currently listening to this!** 🎶  
 [![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
 
-### Plugging
-- 🎹 [phantom fanboy](https://music.jasonmcelhenney.com/) on streaming services  
-- 💣 [join mge server](steam://connect/mge.contenthell.earth/) or `connect mge.contenthell.earth` in console.
-
-### ✅🔄🆕🆒🆓🆙📶#️⃣🆗❎
+## Plugging
+- 🎹 [**phantom fanboy**](https://music.jasonmcelhenney.com/) on streaming services  
+- 💣 **mge server**
+   - paste `steam://connect/mge.contenthell.earth/` into your browser
+   - `connect mge.contenthell.earth` in console.
+  
+### `mge.contenthell.earth`
 ![server icon](https://imgur.com/er0fdbh.gif)  
 here's my [Steam profile](https://contenthell.earth/).  
+
+## donat 💲💲💲
+[![Donate](https://i.imgur.com/fn4LSmC.png)](https://donate.contenthell.earth/)   
+*\*click hamter*  
+*\*\*donations will go towards upkeep of my server: I hope to avoid having to use ads or annoying ranks.*  
 
 <!--
 **zudsniper/zudsniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
