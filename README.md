@@ -5,7 +5,7 @@ Hi! I'm jason. I make code and music, and I like tf2.
 ### 🎶 **currently listening to this!** 🎶  
 [![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
 
-## Plugging
+## plugging
 - 🎹 [**phantom fanboy**](https://music.jasonmcelhenney.com/) on streaming services  
 - 💣 **mge server**
    - paste `steam://connect/mge.contenthell.earth/` into your browser
