@@ -8,10 +8,10 @@ Hi! I'm jason. I make code and music, and I like tf2.
 ## plugging
 - 🎹 [**phantom fanboy**](https://music.jasonmcelhenney.com/) on streaming services  
 - 💣 **mge server**
-   - paste `steam://connect/mge.contenthell.earth/` into your browser
+   - paste `steam://connect/zod.mge.tf/` into your browser
    - `connect mge.contenthell.earth` in console.
   
-### `mge.contenthell.earth`
+### `zod.mge.tf`
 ![server icon](https://imgur.com/er0fdbh.gif)  
 here's my [Steam profile](https://contenthell.earth/).  
 
