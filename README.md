@@ -1,4 +1,4 @@
-![me](https://cdn.discordapp.com/avatars/260934923261706260/c721c26b38eec134ab639cc2ce16d92c.png?size=512)  
+![me](https://cdn.discordapp.com/avatars/260934923261706260/c721c26b38eec134ab639cc2ce16d92c.png?size=128)  
 # `zod` *-* jason 
 Hi! I'm jason. I make code and music, and I like tf2.
 
