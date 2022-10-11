@@ -1,6 +1,6 @@
-![me](https://cdn.discordapp.com/avatars/260934923261706260/c721c26b38eec134ab639cc2ce16d92c.png?size=128)  
+![me_smirkin_bp](https://user-images.githubusercontent.com/16076573/195044600-3786ef10-53fe-4e7a-befd-e8d58739139b.jpg)  
 # `zod` *-* jason 
-Hi! I'm jason. I make code and music, and I like tf2.
+Hi! I'm jason. I make code and music, and I like tf2.  
 
 ### 🎶 **currently listening to this!** 🎶  
 [![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
