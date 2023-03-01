@@ -33,4 +33,12 @@ here's my [Steam profile](https://contenthell.earth/).
 
 ---
 
-[![banner-logo](https://user-images.githubusercontent.com/16076573/192673098-48467c36-2d96-43ca-bc02-5ec993989ceb.gif)](https://github.com/spookytf/)  
+<details>
+  <summary><sub><i>i am no longer developing spookyTF.</i></sub></summary>
+  
+  [![banner-logo](https://user-images.githubusercontent.com/16076573/192673098-48467c36-2d96-43ca-bc02-5ec993989ceb.gif)](https://github.com/spookytf/)  
+  
+</details>
+
+
+
