@@ -1,7 +1,8 @@
-<div align="center">
+> Hi. I'm Jason, or `zod`. 
 
-# `zod` *-* jason  
-![me_smirkin_bp](https://user-images.githubusercontent.com/16076573/195044600-3786ef10-53fe-4e7a-befd-e8d58739139b.jpg)  
+<div align="center"> 
+  
+![thefutureisbleak](https://user-images.githubusercontent.com/16076573/222304718-ad241b68-c945-4346-8f85-40bc7e6c8376.png)
 
   
 </div>  
@@ -16,9 +17,9 @@
     
 </div>
 
-## plugging
+## links
 - 🎹 [**phantom fanboy**](https://music.jasonmcelhenney.com/) on streaming services  
-- 💣 **mge server**
+- 💣 [**mge servers**](https://zod.tf/mge)
    - paste `steam://connect/zod.mge.tf/` into your browser
    - `connect mge.contenthell.earth` in console.
   
@@ -26,10 +27,10 @@
 ![server icon](https://imgur.com/er0fdbh.gif)  
 here's my [Steam profile](https://contenthell.earth/).  
 
-## donate if have 💲💲💲
+## begging
+💲 idk toss me a coffee if you can 💲  
 [![Donate](https://i.imgur.com/fn4LSmC.png)](https://donate.contenthell.earth/)   
-*\*click hamter*  
-*\*\*donations will go towards upkeep of my server: I hope to avoid having to use ads or annoying ranks.*  
+*\*\*donations will go towards upkeep of tf2 servers, as well as other hosted entities I maintain such as [zod.tf](https://zod.tf/)*  
 
 ---
 
