@@ -34,16 +34,16 @@ frequented by some regulars of my discord.
  <a href="https://steamcommunity.com/id/zodtf" rel="nofollow"><img src="https://user-images.githubusercontent.com/16076573/222994000-d9b14f08-6711-453e-acb5-483bcf224901.png" alt="image" style="max-width: 100%;" width=99rem></a>  
 ![Website](https://img.shields.io/website?down_color=FF0000&down_message=down&label=zod.tf&logo=TypeScript&logoColor=FFFFFF&style=for-the-badge&up_message=up&url=https%3A%2F%2Fzod.tf)  
 
-
-</div>
+<details>
+<summary><h2><code>donate</code><h2></summary>
   
-## donate
 💲 toss me a coffee if you can 💲  
 [![Donate](https://i.imgur.com/fn4LSmC.png)](https://donate.contenthell.earth/)   
 *\*\*donations will go towards upkeep of tf2 servers, as well as other hosted entities I maintain such as [zod.tf](https://zod.tf/)*  
-
-
   
+</details>
+</div>
+
 <hr>
 
 <i><code>zod.tf</code></i> 
