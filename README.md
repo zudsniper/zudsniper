@@ -4,7 +4,7 @@
   
   
 ![thefutureisbleak](https://user-images.githubusercontent.com/16076573/222304718-ad241b68-c945-4346-8f85-40bc7e6c8376.png)
-[<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-F84F4A.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-A22FBF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 [<img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -19,7 +19,7 @@
 <div align="center">
 
 
-### 🎶 **currently listening to this!** 🎶  
+### 🎶🎼🎸🎹🥁🎵  
 [![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
     
 <hr>
