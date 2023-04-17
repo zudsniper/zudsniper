@@ -2,8 +2,17 @@
 
 <div align="center"> 
   
+  
 ![thefutureisbleak](https://user-images.githubusercontent.com/16076573/222304718-ad241b68-c945-4346-8f85-40bc7e6c8376.png)
+[<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-F84F4A.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
+[<img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-0D5F2A?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="center" alt="Hyperfollow" src="https://img.shields.io/badge/HyperFollow-05536E?style=for-the-badge&logo=hyperfollow&logoColor=white" />][hyperfollow]
+[<img align="center" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />][soundcloud]
 
+<br />
   
 </div>  
 
@@ -54,6 +63,14 @@ frequented by some regulars of my discord.
 
 <a href="https://zod.tf/"><img src="https://user-images.githubusercontent.com/16076573/222953031-03f44756-03bf-46b9-b66e-98d50dc013fc.png" alt="second zod.tf logo" width="150rem" style="max-width: 100%;"></a>
 
-
+[twitter]: https://twitter.com/phantom_fanboy
+[youtube]: https://www.youtube.com/watch?v=SYbEESxS1hc
+[instagram]: https://instagram.com/jasonmcelhenney
+[steam]: https://steamcommunity.com/id/zodtf/
+[discord]: https://discord.com/users/260934923261706260
+[linkedin]: https://www.linkedin.com/in/jason-mcelhenney/
+[spotify]: https://open.spotify.com/artist/5Mk9cuBiZw5pJiBoS4RngO?si=Z_bTzHyiSS6sCAaFXBAWEw  
+[soundcloud]: https://soundcloud.com/phantom-fanboy
+[hyperfollow]: https://phantomfanboy.com
 
 
