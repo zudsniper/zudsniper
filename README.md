@@ -18,8 +18,7 @@
 
 <div align="center">
 
-
-### 🎶🎼🎸🎹🥁🎵  
+### 🎶🎵🎶🎵🎶🎵🎶🎵🎶🎵
 [![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
     
 <hr>
