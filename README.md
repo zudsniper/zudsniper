@@ -22,19 +22,10 @@
 ### 🎶 **currently listening to this!** 🎶  
 [![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
     
-![zudnsiper's GitHub stats](https://github-readme-stats.vercel.app/api?username=zudsniper&count_private=true&show_icons=true&theme=tokyonight)  
-     
-
-### projects
-🎹 [**music**](https://music.jasonmcelhenney.com/)  
-💣 [**site 1**](https://zod.tf/)  
-📑 [**site 2**](https://jasonmcelhenney.com/)  
-🐀 [**gospel**](https://rat.church/)  
-🎁 [**donate**](https://donate.contenthell.earth)  
-  
-[![Discord](https://img.shields.io/discord/974855479975100487?label=zod.tf%20discord&style=for-the-badge)](https://discord.gg/zodtf)  
+<hr>
   
 ### `zod.mge.tf`  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zodtf)   
 a small but growing set of gameservers  
 frequented by some regulars of my discord.  
 **all mge _for now._**  
