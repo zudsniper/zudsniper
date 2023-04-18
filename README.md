@@ -70,7 +70,7 @@ a small but growing set of gameservers frequented by some regulars of my discord
 [spotify]: https://open.spotify.com/artist/5Mk9cuBiZw5pJiBoS4RngO?si=Z_bTzHyiSS6sCAaFXBAWEw
 [soundcloud]: https://soundcloud.com/phantom-fanboy
 [hyperfollow]: https://phantomfanboy.com
-[paypal]: https://donate.contenthell.earth
+[paypal]: https://paypal.me/zudsniper
 [ko-fi]: https://ko-fi.com/zodtf
 [zodtf_servers]: https://discord.gg/zodtf
 
