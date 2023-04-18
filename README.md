@@ -27,9 +27,8 @@
   
 ### `zod.mge.tf`  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zodtf)   
-a small but growing set of gameservers  
-frequented by some regulars of my discord.  
-**all mge _for now._**  
+a small but growing set of gameservers frequented by some regulars of my discord.   
+**all mge _for now._**  <br>  
 ![server icon](https://imgur.com/er0fdbh.gif)    
 
  <a href="https://steamcommunity.com/id/zodtf" rel="nofollow"><img src="https://user-images.githubusercontent.com/16076573/222994000-d9b14f08-6711-453e-acb5-483bcf224901.png" alt="image" style="max-width: 100%;" width=99rem></a>  
