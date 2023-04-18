@@ -9,9 +9,9 @@
 [<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 [<img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-0D5F2A?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
-[<img align="center" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />][soundcloud]
-[<img align="center" alt="Hyperfollow" src="https://img.shields.io/badge/Streaming-78004D?style=for-the-badge&logo=LMMS&logoColor=white" />][hyperfollow]
+[<img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-0D5F2A.svg?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="center" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=soundcloud&logoColor=white" />][soundcloud]
+
 
 <br />
   
@@ -21,8 +21,12 @@
   
 [![my github stats](https://github-readme-stats.vercel.app/api?username=zudsniper&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=statistics&line_height=24&hide_title=true&text_bold=true&card_width=420&ring_color=f34b7d&text_color=007ec4&icon_color=f34b7d&border_color=16c60c) ![Github Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zudsniper&theme=transparent&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=360&border_color=16c60c&text_color=007ec4)](https://zod.tf)
 
-  ### 🎶🎵🎶🎵🎶🎵🎶🎵🎶🎵
-[![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)  
+### 🎶🎵 $i'm$ $listening$ $to$ 🎶🎵  
+[![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)   
+### 🎧🎤 $phantom$ $fanboy$  🎸🎹  
+[<img align="center" alt="Hyperfollow" src="https://img.shields.io/badge/Streaming-78004D?style=for-the-badge&logo=LMMS&logoColor=white" />][hyperfollow]
+[<img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-0D5F2A?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="center" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />][soundcloud]  
   
 <hr>
   
@@ -63,7 +67,7 @@ a small but growing set of gameservers frequented by some regulars of my discord
 [steam]: https://steamcommunity.com/id/zodtf/
 [discord]: https://discord.com/users/260934923261706260
 [linkedin]: https://www.linkedin.com/in/jason-mcelhenney/
-[spotify]: https://open.spotify.com/artist/5Mk9cuBiZw5pJiBoS4RngO?si=Z_bTzHyiSS6sCAaFXBAWEw  
+[spotify]: https://open.spotify.com/artist/5Mk9cuBiZw5pJiBoS4RngO?si=Z_bTzHyiSS6sCAaFXBAWEw
 [soundcloud]: https://soundcloud.com/phantom-fanboy
 [hyperfollow]: https://phantomfanboy.com
 [paypal]: https://donate.contenthell.earth
