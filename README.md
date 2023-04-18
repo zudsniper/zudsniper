@@ -4,12 +4,14 @@
   
   
 ![thefutureisbleak](https://user-images.githubusercontent.com/16076573/222304718-ad241b68-c945-4346-8f85-40bc7e6c8376.png)
+[<img align="center" alt="ko-fi Donations" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>][ko-fi]
+[<img align="center" alt="PayPal Donations" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>][paypal]
 [<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 [<img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-0D5F2A?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
-[<img align="center" alt="Hyperfollow" src="https://img.shields.io/badge/HyperFollow-05536E?style=for-the-badge&logo=hyperfollow&logoColor=white" />][hyperfollow]
 [<img align="center" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />][soundcloud]
+[<img align="center" alt="Hyperfollow" src="https://img.shields.io/badge/Streaming-78004D?style=for-the-badge&logo=LMMS&logoColor=white" />][hyperfollow]
 
 <br />
   
@@ -25,27 +27,27 @@
 <hr>
   
 ### `zod.mge.tf`  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zodtf)   
+![server status](https://img.shields.io/website?down_color=FF0000&down_message=down&label=zod.tf%20servers&logo=codeigniter&logoColor=FFFFFF&style=for-the-badge&up_message=up&url=https%3A%2F%2Fzod.tf)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zodtf)      
 a small but growing set of gameservers frequented by some regulars of my discord.   
 **all mge _for now._**  <br>  
-![server icon](https://imgur.com/er0fdbh.gif)    
+[![server icon](https://imgur.com/er0fdbh.gif)][zodtf_servers]    
 
- <a href="https://steamcommunity.com/id/zodtf" rel="nofollow"><img src="https://user-images.githubusercontent.com/16076573/222994000-d9b14f08-6711-453e-acb5-483bcf224901.png" alt="image" style="max-width: 100%;" width=99rem></a>  
-![Website](https://img.shields.io/website?down_color=FF0000&down_message=down&label=zod.tf&logo=TypeScript&logoColor=FFFFFF&style=for-the-badge&up_message=up&url=https%3A%2F%2Fzod.tf)  
-
-<details>
-<summary><h2><code>donate</code><h2></summary>
-  
-💲 toss me a coffee if you can 💲  
-[![Donate](https://i.imgur.com/fn4LSmC.png)](https://donate.contenthell.earth/)   
-*\*\*donations will go towards upkeep of tf2 servers, as well as other hosted entities I maintain such as [zod.tf](https://zod.tf/)*  
-  
-</details>
 </div>
+  
+<details>
+<summary><h3><code>donations</code><h3></summary>  
+
+#### 💲 toss me a coffee if you can 💲  
+*\*\*donations will go towards upkeep of tf2 servers, as well as other hosted entities I maintain such as [zod.tf](https://zod.tf/)*  
+[![Donate](https://i.imgur.com/fn4LSmC.png)](https://donate.contenthell.earth/)   
+
+</details>
+
 
 <hr>
 
-<i><code>zod.tf</code></i>  
+<code>zod.tf</code>  
 <sup><i>or <a target="_blank" href="https://github.com/zudsniper"><code>@zudsniper</code></a> on ... well here</i></sup>  
 
 
@@ -64,5 +66,8 @@ a small but growing set of gameservers frequented by some regulars of my discord
 [spotify]: https://open.spotify.com/artist/5Mk9cuBiZw5pJiBoS4RngO?si=Z_bTzHyiSS6sCAaFXBAWEw  
 [soundcloud]: https://soundcloud.com/phantom-fanboy
 [hyperfollow]: https://phantomfanboy.com
+[paypal]: https://donate.contenthell.earth
+[ko-fi]: https://ko-fi.com/zodtf
+[zodtf_servers]: https://discord.gg/zodtf
 
 
