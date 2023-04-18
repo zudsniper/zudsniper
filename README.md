@@ -19,8 +19,10 @@
 <div align="center">
 
 ### 🎶🎵🎶🎵🎶🎵🎶🎵🎶🎵
-[![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)
-    
+[![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)  
+  
+[![my github stats](https://github-readme-stats.vercel.app/api?username=zudsniper&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=statistics&line_height=24&hide_title=true&text_bold=true&card_width=420&ring_color=f34b7d&text_color=007ec4&icon_color=f34b7d&border_color=16c60c) ![Github Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zudsniper&theme=transparent&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=420&border_color=16c60c&text_color=007ec4)](https://zod.tf)
+  
 <hr>
   
 ### `zod.mge.tf`  
@@ -45,7 +47,9 @@ frequented by some regulars of my discord.
 
 <hr>
 
-<i><code>zod.tf</code></i> 
+<i><code>zod.tf</code></i>  
+<sup><i>or <a target="_blank" href="https://github.com/zudsniper"><code>@zudsniper</code></a> on ... well here</i></sup>  
+
 
 [![Discord](https://img.shields.io/discord/974855479975100487?label=tf2%20discord)](https://discord.gg/zodtf)  ![GitHub issue custom search](https://img.shields.io/github/issues-search?color=114444&label=issues&query=involves%3Azudsniper)  ![GitHub followers](https://img.shields.io/github/followers/zudsniper?style=social)  
 
