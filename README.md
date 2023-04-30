@@ -40,14 +40,18 @@ a small but growing set of gameservers frequented by some regulars of my discord
 </div>
   
 <details>
-<summary><h3><code>donations</code><h3></summary>  
+<summary><h3><code>donations</code><h3></summary>   
 
-#### 💲 toss me a coffee if you can 💲  
-*\*\*donations will go towards upkeep of tf2 servers, as well as other hosted entities I maintain such as [zod.tf](https://zod.tf/)*  
+<div align="center">
+
+### 💙 SUPPORT ME 💗 
+[![Donate](https://img.shields.io/static/v1?label=&message=Donate&color=ff69b4&logo=Github+Sponsors&logoColor=ffffff)](https://zod.tf/donate) 
+[![Steam Items](https://img.shields.io/static/v1?label=&message=Steam+Items&color=informational&logo=Github+Sponsors&logoColor=ffffff)](https://zod.tf/donate_items)  
 [![Donate](https://i.imgur.com/fn4LSmC.png)](https://donate.contenthell.earth/)   
-
+  
+</div>  
+  
 </details>
-
 
 <hr>
 
