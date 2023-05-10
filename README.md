@@ -1,3 +1,10 @@
+> ### ⚠ WARNING: _Ugly_  
+> GitHub decided to silently disable content from anywhere except a small subset of servers which they control through content script policies, so a lot of my cool shit no longer loads and looks ugly.   
+> I am **assuredly** more upset about this than you are, and when *when I find the free time to do so* will fix these issues if doing so is possible.  
+> ### **`SORRY!`**  
+
+---   
+
 > Hi. I'm Jason, or `zod`. 
 
 <div align="center"> 
