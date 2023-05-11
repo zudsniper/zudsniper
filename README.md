@@ -29,7 +29,10 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=zudsniper&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=statistics&line_height=24&hide_title=true&text_bold=true&card_width=420&ring_color=f34b7d&text_color=007ec4&icon_color=f34b7d&border_color=69b7df) ![Github Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zudsniper&theme=transparent&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=360&text_color=007ec4&border_color=69b7df)](https://zod.tf)
 
 ### 🎶🎵 $i'm$ $listening$ $to$ 🎶🎵  
-[![Spotify](https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c)](https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1)   
+  
+<p><a target="_blank" href="https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1"><img alt="Spotify" src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&amp;border_color=16c60c"  data-canonical-src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c" style="max-width: 100%;"></a></p>
+  
+ 
 ### 🎧🎤 $phantom$ $fanboy$  🎸🎹  
 [<img align="center" alt="Hyperfollow" src="https://img.shields.io/badge/Streaming-78004D?style=for-the-badge&logo=LMMS&logoColor=white" />][hyperfollow]
 [<img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-0D5F2A?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
