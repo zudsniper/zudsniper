@@ -1,9 +1,3 @@
-> ### ⚠ WARNING: _Ugly_  
-> GitHub decided to silently disable content from anywhere except a small subset of servers which they control through content script policies, so a lot of my cool shit no longer loads and looks ugly.   
-> I am **assuredly** more upset about this than you are, and when *when I find the free time to do so* will fix these issues if doing so is possible.  
-> ### **`SORRY!`**  
-
----   
 
 > Hi. I'm Jason, or `zod`. 
 
@@ -28,6 +22,9 @@
   
 [![my github stats](https://github-readme-stats.vercel.app/api?username=zudsniper&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=statistics&line_height=24&hide_title=true&text_bold=true&card_width=420&ring_color=f34b7d&text_color=007ec4&icon_color=f34b7d&border_color=69b7df) ![Github Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zudsniper&theme=transparent&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=360&text_color=007ec4&border_color=69b7df)](https://zod.tf)
 
+
+<details><summary style="list-style: none; cursor: pointer;"><sub>💕 <code>[click]</code> 💕 <br>broken elements</sub></summary></h3>
+
 ### 🎶🎵 $i'm$ $listening$ $to$ 🎶🎵  
   
 <p><a target="_blank" href="https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1"><img alt="Spotify" src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&amp;border_color=16c60c"  data-canonical-src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c" style="max-width: 100%;"></a></p>
@@ -49,10 +46,13 @@ a small but growing set of gameservers frequented by some regulars of my discord
 
 </div>
   
-<details>
-<summary><h3><code>donations</code><h3></summary>   
+</details>
+<br><br>
 
 <div align="center">
+<details><summary style="list-style: none; cursor: pointer;"><h3><code>🎁 [click] 🎀</code><br>donations</summary></h3>   
+
+
 
 ### 💙 SUPPORT ME 💗 
 [![Donate](https://img.shields.io/static/v1?label=&message=Donate&color=ff69b4&logo=Github+Sponsors&logoColor=ffffff)](https://zod.tf/donate) 
@@ -65,15 +65,13 @@ a small but growing set of gameservers frequented by some regulars of my discord
 
 <hr>
 
-<code>zod.tf</code>  
-<sup><i>or <a target="_blank" href="https://github.com/zudsniper"><code>@zudsniper</code></a> on ... well here</i></sup>  
+<b><a target="_blank" href="https://gh.zod.tf"><code>zod.tf</code></a></b> 
 
+[![Discord](https://img.shields.io/discord/974855479975100487?label=tf2%20discord&color=9F2B68)](https://discord.gg/zodtf)  ![GitHub issue custom search](https://img.shields.io/github/issues-search?color=F8C8DC&label=issues&query=involves%3Azudsniper)  ![GitHub followers](https://img.shields.io/github/followers/zudsniper?style=social)  
 
-[![Discord](https://img.shields.io/discord/974855479975100487?label=tf2%20discord)](https://discord.gg/zodtf)  ![GitHub issue custom search](https://img.shields.io/github/issues-search?color=114444&label=issues&query=involves%3Azudsniper)  ![GitHub followers](https://img.shields.io/github/followers/zudsniper?style=social)  
+> _fullstack development, server administration, web design, branding creation, musical composition & performance, video editing, and more probably_   
 
-> _fullstack development, server administration, web design, branding creation, musical scoring, video editing, and idk another thing_   
-
-<a href="https://zod.tf/"><img src="https://user-images.githubusercontent.com/16076573/222953031-03f44756-03bf-46b9-b66e-98d50dc013fc.png" alt="second zod.tf logo" width="150rem" style="max-width: 100%;"></a>
+<a href="https://zod.tf/"><img src="https://i.imgur.com/oWKeLQq.gif" alt="zod.tf logo" width="120px" style="max-width: 100%;"></a>
 
 [twitter]: https://twitter.com/phantom_fanboy
 [youtube]: https://www.youtube.com/watch?v=SYbEESxS1hc
