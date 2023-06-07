@@ -67,11 +67,11 @@ a small but growing set of gameservers frequented by some regulars of my discord
 
 <b><a target="_blank" href="https://gh.zod.tf"><code>zod.tf</code></a></b> 
 
-[![Discord](https://img.shields.io/discord/974855479975100487?label=tf2%20discord&color=9F2B68)](https://discord.gg/zodtf)  ![GitHub issue custom search](https://img.shields.io/github/issues-search?color=F8C8DC&label=issues&query=involves%3Azudsniper)  ![GitHub followers](https://img.shields.io/github/followers/zudsniper?style=social)  
+[💬 Discord](https://discord.gg/zodtf) 
 
 > _fullstack development, server administration, web design, branding creation, musical composition & performance, video editing, and more probably_   
 
-<a href="https://zod.tf/"><img src="https://i.imgur.com/oWKeLQq.gif" alt="zod.tf logo" width="120px" style="max-width: 100%;"></a>
+<a href="https://zod.tf/"><img src="https://github.com/zudsniper/zudsniper/assets/16076573/0b2203d4-2e8f-44d9-ac9c-2b5097d1f961" alt="zod.tf logo" width="120px" style="max-width: 100%;"></a>
 
 [twitter]: https://twitter.com/phantom_fanboy
 [youtube]: https://www.youtube.com/watch?v=SYbEESxS1hc
