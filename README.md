@@ -63,8 +63,6 @@ a small but growing set of gameservers frequented by some regulars of my discord
   
 </details>
 
-https://gist.githubusercontent.com/zudsniper/83917b8ec5a6814b613a6bd0065c1173/raw/7ZIP_COMPRESSOR.ps1
-
 <hr>
 
 <b><a target="_blank" href="https://gh.zod.tf"><code>zod.tf</code></a></b> 
