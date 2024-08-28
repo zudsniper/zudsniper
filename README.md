@@ -21,11 +21,7 @@
 <div align="center">
   
 [![my github stats](https://github-readme-stats.vercel.app/api?username=zudsniper&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=statistics&line_height=24&hide_title=true&text_bold=true&card_width=420&ring_color=f34b7d&text_color=007ec4&icon_color=f34b7d&border_color=69b7df) ![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zudsniper&theme=transparent&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=360&text_color=007ec4&border_color=69b7df)](https://zod.tf)
-
-
-<details><summary style="list-style: none; cursor: pointer;"><sub>💕 <code>[click]</code> 💕 <br>broken elements</sub></summary></h3>
-
-### 🎶🎵 $i'm$ $listening$ $to$ 🎶🎵  
+ 
   
 <p><a target="_blank" href="https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1"><img alt="Spotify" src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&amp;border_color=16c60c"  data-canonical-src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c" style="max-width: 100%;"></a></p>
   
@@ -36,18 +32,6 @@
 [<img align="center" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />][soundcloud]  
   
 <hr>
-  
-### `zod.mge.tf`  
-![server status](https://img.shields.io/website?down_color=FF0000&down_message=down&label=zod.tf%20servers&logo=codeigniter&logoColor=FFFFFF&style=for-the-badge&up_message=up&url=https%3A%2F%2Fzod.tf)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zodtf)      
-a small but growing set of gameservers frequented by some regulars of my discord.   
-**all mge _for now._**  <br>  
-[![server icon](https://imgur.com/er0fdbh.gif)][zodtf_servers]    
-
-</div>
-  
-</details>
-<br><br>
 
 <div align="center">
 <details><summary style="list-style: none; cursor: pointer;"><h3><code>🎁 [click] 🎀</code><br>donations</summary></h3>   
