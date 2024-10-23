@@ -33,29 +33,14 @@
   
 <hr>
 
-<div align="center">
-<details><summary style="list-style: none; cursor: pointer;"><h3><code>🎁 [click] 🎀</code><br>donations</summary></h3>   
-
-
-
-### 💙 SUPPORT ME 💗 
-[![Donate](https://img.shields.io/static/v1?label=&message=Donate&color=ff69b4&logo=Github+Sponsors&logoColor=ffffff)](https://zod.tf/donate) 
-[![Steam Items](https://img.shields.io/static/v1?label=&message=Steam+Items&color=informational&logo=Github+Sponsors&logoColor=ffffff)](https://zod.tf/donate_items)  
-[![Donate](https://i.imgur.com/fn4LSmC.png)](https://donate.contenthell.earth/)   
-  
-</div>  
-  
-</details>
-
-<hr>
-
-<b><a target="_blank" href="https://gh.zod.tf"><code>zod.tf</code></a></b> 
-
-[💬 Discord](https://discord.gg/zodtf) 
-
-> _fullstack development, server administration, web design, branding creation, musical composition & performance, video editing, and more probably_   
-
 <a href="https://zod.tf/"><img src="https://github.com/zudsniper/zudsniper/assets/16076573/0b2203d4-2e8f-44d9-ac9c-2b5097d1f961" alt="zod.tf logo" width="120px" style="max-width: 100%;"></a>
+
+<div align="center">
+
+  [![Epoch Clock](http://epoch.rat.church)](https://gh.zod.tf/epoch_clock)  
+  <sup><a target="_blank" href="http://epoch.rat.church"><i>epoch.rat.church</i></a></sup>
+
+</div>
 
 [twitter]: https://twitter.com/phantom_fanboy
 [youtube]: https://www.youtube.com/watch?v=SYbEESxS1hc
