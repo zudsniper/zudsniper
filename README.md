@@ -37,8 +37,8 @@
 
 <div align="center">
 
-  [![Epoch Clock](http://epoch.rat.church)](https://gh.zod.tf/epoch_clock)  
-  <sup><a target="_blank" href="http://epoch.rat.church"><i>epoch.rat.church</i></a></sup>
+  [![Epoch Clock](http://epoch.rat.church?)](https://gh.zod.tf/epoch_clock)  
+  <sup><a target="_blank" href="http://epoch.rat.church/epoch.png?"><i>epoch.rat.church</i></a></sup>
 
 </div>
 
