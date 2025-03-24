@@ -22,6 +22,11 @@
   
 [![my github stats](https://github-readme-stats.vercel.app/api?username=zudsniper&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=statistics&line_height=24&hide_title=true&text_bold=true&card_width=420&ring_color=f34b7d&text_color=007ec4&icon_color=f34b7d&border_color=69b7df) ![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zudsniper&theme=transparent&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=360&text_color=007ec4&border_color=69b7df)](https://gh.zod.tf)  
 
+<div align="center">
+<div><img alt="languages 30 days" src="https://wakatime.com/share/@zodsuper/f158dfac-8d01-4244-803f-40557f3e8cd9.svg" width="750rem" align="center"><br /><span align="left"><sup><i><code>(last 30 days)</code></i></sup></span><br /></div>
+<br />
+</div>
+
   
 <p><a target="_blank" href="https://open.spotify.com/user/dohflip7mdboclrx7m1kjjdp1"><img alt="Spotify" src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&amp;border_color=16c60c"  data-canonical-src="https://spotify-now-playing-poggers.vercel.app/api/spotify?background_color=0a0e12&border_color=16c60c" style="max-width: 100%;"></a></p>
   
@@ -32,13 +37,6 @@
 [<img align="center" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />][soundcloud]  
   
 <hr>
-
-<div align="center">
-<div><span align="left"><code>languages (30d)</code></span><br /><img alt="languages 30 days" src="https://wakatime.com/share/@zodsuper/f158dfac-8d01-4244-803f-40557f3e8cd9.svg" width="750rem" align="center"></div>
-  <div><span align="left"><code>coding (30d)</code></span><br /><img alt="coding activity 30 days" src="https://wakatime.com/share/@zodsuper/778a6016-8eca-4d5e-8016-7ed79e78f962.svg" width="750rem" align="center"></div>
-<br />
-</div>
-
 
 <a href="https://zod.tf/"><img src="https://github.com/zudsniper/zudsniper/assets/16076573/0b2203d4-2e8f-44d9-ac9c-2b5097d1f961" alt="zod.tf logo" width="120px" style="max-width: 100%;"></a>
 
