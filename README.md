@@ -20,7 +20,7 @@
 
 <div align="center">
   
-[![my github stats](https://github-readme-stats.vercel.app/api?username=zudsniper&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=statistics&line_height=24&hide_title=true&text_bold=true&card_width=420&ring_color=f34b7d&text_color=007ec4&icon_color=f34b7d&border_color=69b7df) ![GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zudsniper&theme=transparent&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=360&text_color=007ec4&border_color=69b7df)](https://gh.zod.tf)  
+[![my github stats](./profile/stats.svg) ![GitHub Lang Stats](./profile/top-langs.svg)](https://gh.zod.tf)  
 
 <div align="center">
 <div><img alt="languages 30 days" src="https://wakatime.com/share/@zodsuper/f158dfac-8d01-4244-803f-40557f3e8cd9.svg" width="750rem" align="center"><br /><span align="left"><sup><i><code>(last 30 days)</code></i></sup></span><br /></div>
