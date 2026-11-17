@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">statistics, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 155, Total Commits  : 1415, Total PRs: 146, Total Issues: 76, Contributed to (last year): 6</desc>
+        <title id="titleId">statistics, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 162, Total Commits  : 2544, Total PRs: 255, Total Issues: 201, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.72617731516796;
+        stroke-dashoffset: 52.58888203451695;
       }
     }
   
@@ -136,7 +136,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          A
         </text>
       
         </g>
@@ -155,7 +155,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >155</text>
+      >162</text>
     </g>
   </g><g transform="translate(0, 24)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -170,7 +170,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >1.4k</text>
+      >2.5k</text>
     </g>
   </g><g transform="translate(0, 48)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -185,7 +185,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >146</text>
+      >255</text>
     </g>
   </g><g transform="translate(0, 72)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -200,7 +200,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >76</text>
+      >201</text>
     </g>
   </g><g transform="translate(0, 96)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -215,7 +215,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >6</text>
+      >7</text>
     </g>
   </g>
     </svg>
